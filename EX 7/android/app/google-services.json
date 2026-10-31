@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059304668243",
+    "project_id": "studentrecordsfirestore",
+    "storage_bucket": "studentrecordsfirestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304668243:android:bc4a055cf33640f77c9aa6",
+        "android_client_info": {
+          "package_name": "com.example.student_records_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAy5IDceKsK6fD7QbJRFSCSZqZGCBcKdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
